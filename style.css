@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+}
+#vs{
+    color:red;
+}
+.test_image_and_result{
+    background-color:grey;
+    border-radius:3%;
+    margin-bottom:10px;
+}
+b{
+    color:blueviolet;
+}
